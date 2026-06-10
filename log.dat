@@ -28,5 +28,21 @@
     "pontos": 1,
     "data": "10/06/2026",
     "hora": "01:07:31"
+    "nome": "caroline",
+    "pontos": 1,
+    "data": "09/06/2026",
+    "hora": "22:54:30"
+  },
+  {
+    "nome": "lore",
+    "pontos": 2,
+    "data": "09/06/2026",
+    "hora": "23:49:30"
+  },
+  {
+    "nome": "lore",
+    "pontos": 0,
+    "data": "09/06/2026",
+    "hora": "23:49:59"
   }
 ]
